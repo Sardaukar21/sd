@@ -8,6 +8,7 @@ public class Guard extends Pers {
 //    double some = 0;
 //    boolean someBool = true;
 
+
     public Guard(String text) {
         super (text);
     }
